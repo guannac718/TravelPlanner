@@ -1,0 +1,44 @@
+.container {
+    display: flex; /* or inline-flex */
+    width: 1200px;
+    height: 440px;
+    margin: 30px auto;
+    background-color: #f7f7f7;
+    padding-top: 20px;
+
+}
+
+.citylist{
+    width: 360px;
+    height: 270px;
+    margin: 0 35px;
+}
+
+.citylist > h1, div > h1 {
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, Sans-Serif;
+}
+
+.citymap{
+    width: 660px;
+    /*height: 660px;*/
+    height: inherit;
+    margin: 0 35px;
+}
+
+.input{
+    box-sizing: border-box;
+    border-width: 1px ;
+    border-style: solid;
+    border-color: transparent;
+    width: 240px;
+    height: 32px;
+    margin: 15px;
+    padding: 0 12px;
+    border-radius: 3px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    font-size: 14px;
+    outline: none;
+    text-overflow: ellipsis;
+}

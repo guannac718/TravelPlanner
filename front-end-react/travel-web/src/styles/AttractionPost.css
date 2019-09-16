@@ -1,0 +1,35 @@
+.attraction-post{
+    margin: auto;
+}
+.place-image {
+    margin:auto;
+    height: 75%;
+    width: 75%;
+    margin-top:10px;
+}
+
+/*.place-info {*/
+/*    font-size: 12px;*/
+/*    margin: 0 auto;*/
+
+/*    !*display: flex;*!*/
+/*    !*align-items: center;*!*/
+/*    !*justify-content: center;*!*/
+/*}*/
+
+.place-name {
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px darkgrey;
+}
+
+.description{
+    text-align:left;
+    list-style-type:none;
+     margin: 0 auto;
+    font-size: 12px;
+    color: #595959;
+
+}
+.more-info-button {
+}

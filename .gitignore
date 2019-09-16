@@ -1,0 +1,7 @@
+/.metadata/
+/Servers/
+!.gitignore
+**/.idea
+**/charge.js
+**/charge.java
+**/apiKey.java

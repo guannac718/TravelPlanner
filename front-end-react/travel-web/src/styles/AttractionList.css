@@ -1,0 +1,9 @@
+.sider{
+    display: none;
+    background: red;
+}
+.attraction-list{
+    height: 700px;
+    margin: 0 5px;
+    background: transparent;  /* uncomment it to make the edge invisible */
+}
